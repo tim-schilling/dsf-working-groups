@@ -51,19 +51,8 @@ Any changes to the budget may be requested from the board.
 
 ## Comms
 
-Where will discussions and activities take place?
-
-Suggestions:
-
-- A mailing list that we'll create, `some-wg@djangoproject.com`
-- The DSF Slack
-- The Django Discord server
-- The Forum
-
-Meetings: we also suggest synchronous meetings via Meet/Zoom/Whereby/etc at least monthly.
+The team holds it discussions on the mailing list: TODO
 
 ## Reporting
 
-How and how often will the team/WG report back to the Steering Council and/or board?
-
-Suggestion: we'll post a report to the Forum [monthly/every two months/every quarter].
+The security team reports back to the community through the [Django Release Announcements thread](https://forum.djangoproject.com/t/django-release-announcements/655/96) on the Forum.

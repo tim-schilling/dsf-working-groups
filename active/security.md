@@ -15,6 +15,7 @@ The security team is responsible for [Django’s security policies](https://docs
 - Chair:
 - Co-Chair:
 - Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair): Carlton Gibson
+- Board President (read-only access to mailing list): Thibaud Colas
 - Other members:
   - Adam Johnson
   - Carlton Gibson
@@ -32,17 +33,36 @@ The security team is responsible for [Django’s security policies](https://docs
 
 ## Future membership
 
-Answer the following questions here:
+The team does not have a fixed size. The team decides when new members are needed. New members are chosen from a list of volunteers. If there are no qualified volunteers the team will place an advertisement on the Django website.
 
-- Who is eligible to join? Any volunteer, or are there specific requirements?
-- How do people who want to join sign up / volunteer / express interest?
-- How will decisions on adding/removing members be handled?
+Members must opt-in to remain on the team on an annual basis. They may also leave for any reason.
 
-For the last question, we suggest picking one of the following:
+Members can also be removed by:
 
-- Direct membership: new members may self-nominate; the team/WG will vote (50%+1) to approve/deny new members; the team/WG will directly vote on new Chair/Co-Chairs. (This is the appropriate model for most team/WGs).
-- Board-managed: new members may self-nominate, but must be voted in by the Board. The Board must approve changes to the Chair/Co-Chair. (This is the appropriate model for sensitive, community based teams/WGs, such as the Ops Team, or WGs with large budgets ($thousands/year).)
-- Steering Council-managed: new members may self-nominate, but must be voted in by the Steering Council. The Steering Council must approve changes to the Chair/Co-Chair. (This is the appropriate model for sensitive teams/WGs, such as the Mergers team.)
+- Becoming disqualified by the Code of Conduct working group
+- A vote of the Steering Council
+- The full consensus of the rest of the Security Team
+
+### Membership requirements
+
+Members should possess some  knowledge of the following topics, but not necessarily all of them.
+
+- Building Django applications
+- Contributing to Django
+- Web applications
+- Web security
+- Software security
+
+### How to join
+
+Any person can volunteer to join the security team by opening a PR to this repository, adding themselves to the team list. The team/WG will vote (50%+1) to approve/deny new members; the team/WG will directly vote on new Chair/Co-Chairs.
+
+The PR's description should include the following:
+
+- Why do you want to join the team?
+- What is your history of using Django as a developer?
+- What is your history of contributing to Django?
+- What security experience do you bring that would be helpful to the team?
 
 ## Budget
 

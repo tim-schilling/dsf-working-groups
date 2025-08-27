@@ -55,4 +55,7 @@ The team holds it discussions on the mailing list: TODO
 
 ## Reporting
 
-The security team reports back to the community through the [Django Release Announcements thread](https://forum.djangoproject.com/t/django-release-announcements/655/96) on the Forum.
+The team has two responsibilities in regards to reporting to the Board and the Steering Council:
+
+1. Use [Django Release Announcements thread](https://forum.djangoproject.com/t/django-release-announcements/655/96) on the Forum to report security releases
+2. An annual report summarizing the team's activity, areas of concern, considerations for the future and any other relevant topics

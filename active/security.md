@@ -14,6 +14,7 @@ The security team is responsible for [Django’s security policies](https://docs
 
 - Chair:
 - Co-Chair:
+- Report triagers: 
 - Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair): Carlton Gibson
 - Board President (read-only access to mailing list): Thibaud Colas
 - Other members:
@@ -30,7 +31,13 @@ The security team is responsible for [Django’s security policies](https://docs
   - Sarah Boyce
   - Shai Berger
   - Simon Charette
+ 
+### Role definitions
 
+- Chair: Responsible for managing the team and seeing that responsibilities are being met.
+- Co-Chair: Responsible for helping manage the team and seeing that responsibilities are being met.
+- Report triagers: These team members are responsible for acknowleding and triaging reports initially to determine liklihood of security concern and severity.
+ 
 ## Future membership
 
 The team does not have a fixed size. The team decides when new members are needed. New members are chosen from a list of volunteers. If there are no qualified volunteers the team will place an advertisement on the Django website.

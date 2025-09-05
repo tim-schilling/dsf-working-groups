@@ -16,7 +16,6 @@ The security team is responsible for [Django’s security policies](https://docs
 - Co-Chair:
 - Report triagers: 
 - Steering Council Liaison (must be an active Steering Council member; may be the same as Chair/Co-Chair): Carlton Gibson
-- Board President (read-only access to mailing list): Thibaud Colas
 - Other members:
   - Adam Johnson
   - Carlton Gibson
@@ -31,6 +30,8 @@ The security team is responsible for [Django’s security policies](https://docs
   - Sarah Boyce
   - Shai Berger
   - Simon Charette
+ 
+Note: The DSF Board President has access to the security mailing list, but does not participate. This is mentioned for the sake of transparency.
  
 ### Role definitions
 

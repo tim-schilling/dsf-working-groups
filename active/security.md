@@ -31,7 +31,7 @@ The security team is responsible for [Django’s security policies](https://docs
   - Shai Berger
   - Simon Charette
  
-Note: The DSF Board President has access to the security mailing list, but does not participate. This is mentioned for the sake of transparency.
+Note: The DSF Board President has access to the security mailing list, but does not otherwise participate in the team’s activities. This is mentioned for the sake of transparency.
  
 ### Role definitions
 

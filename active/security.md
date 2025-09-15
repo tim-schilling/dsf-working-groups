@@ -37,7 +37,7 @@ Note: The DSF Board President has access to the security mailing list, but does 
 
 - Chair: Responsible for managing the team and seeing that responsibilities are being met.
 - Co-Chair: Responsible for helping manage the team and seeing that responsibilities are being met.
-- Report triagers: These team members are responsible for acknowleding and triaging reports initially to determine liklihood of security concern and severity.
+- Report triagers: These team members are responsible for acknowleding and triaging reports initially to determine likelyhood of security concern and severity.
  
 ## Future membership
 

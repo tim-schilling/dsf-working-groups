@@ -35,8 +35,7 @@ Note: The DSF Board President has access to the security mailing list, but does 
  
 ### Role definitions
 
-- Chair: Responsible for managing the team and seeing that responsibilities are being met.
-- Co-Chair: Responsible for helping manage the team and seeing that responsibilities are being met.
+- Chair / Co-Chair: Responsible for coordinating the group, scheduling meetings, renewing the group’s membership, and ensuring that the group’s activities align with its scope and responsibilities.
 - Report triagers: These team members are responsible for acknowleding and triaging reports initially to determine likelyhood of security concern and severity.
  
 ## Future membership

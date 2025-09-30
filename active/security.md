@@ -62,14 +62,16 @@ Members should possess some  knowledge of the following topics, but not necessar
 
 ### How to join
 
-Any person can volunteer to join the security team by opening a PR to this repository, adding themselves to the team list. The team/WG will vote (50%+1) to approve/deny new members; the team/WG will directly vote on new Chair/Co-Chairs.
+Any person can volunteer to join the security team by submitting a Google Form (TODO: Create link). The team/WG will vote (50%+1) to approve/deny new members; the team/WG will directly vote on new Chair/Co-Chairs.
 
-The PR's description should include the following:
+The application should include the following:
 
 - Why do you want to join the team?
 - What is your history of using Django as a developer?
 - What is your history of contributing to Django?
 - What security experience do you bring that would be helpful to the team?
+
+(TODO: Define cadence of reviewing applications)
 
 ## Budget
 

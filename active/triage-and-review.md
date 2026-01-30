@@ -4,7 +4,7 @@ The Triage & Review Team assists with the processing of pull requests, bug repor
 
 ## Scope of responsibilities
 
-The objective of the team is to help spread work beyond the [Mergers](https://www.djangoproject.com/foundation/teams/#mergers-team) and into the wider contributor community. A pull request approval from a member of the Triage and Review team allows a Merger to merge a minor change that they, themselves have primarily authored.
+The objective of the team is to help spread work beyond the [Mergers](https://www.djangoproject.com/foundation/teams/#mergers-team) and into the wider contributor community. The team has elevated permissions in Trac and GitHub to allow them to triage and maintain tickets and pull requests. A pull request approval from a member of the Triage and Review team allows a Merger to merge a minor change that they, themselves have primarily authored.
 
 Team members will:
 

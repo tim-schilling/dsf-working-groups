@@ -45,7 +45,7 @@ There are [instructions on how to add new members to the team in the Wiki](https
 
 There is no budget, but requests can be made to the Board as needs arise.
 
-Django has some professional PyCharm licenses that we can share with our contributors. Team members are eligible receive these.
+Django has some professional PyCharm licenses that we can share with our contributors. Team members are eligible to receive these.
 
 ## Comms
 

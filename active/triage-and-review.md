@@ -1,6 +1,6 @@
 # Triage and Review Team
 
-The Triage & Review Team assists with the processing of pull requests, bug reports, and feature requests.
+The Triage & Review Team assists with the processing of pull requests, bug reports, and feature requests. Members of this team are contributors who regularly step up to help with the invisible work of maintaining the Django framework.
 
 ## Scope of responsibilities
 

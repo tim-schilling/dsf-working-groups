@@ -12,31 +12,27 @@ Delegated responsibilities:
 - Communicate and coordinate with prospective mentees and mentors.
 - Communicate and coordinate with Django community regarding GSoC.
 
-## Initial membership
+## Membership
 
 - Chair: Bhuvnesh Sharma
 - Co-Chair: Apoorv Garg
 - Board Liaison:
-- Steering Council Liaison:
+- Steering Council Liaison: Tim Schilling
 - Other members:
 
 ## Future membership
 
 Anyone who has interest in Django, coordinating community members and/or encouraging contributions to Django is welcome to join. We welcome all experience levels.
 
+
 ### Expressing Interest
 
-Send one of the WG members a message on Discord or the Forum. A form will be made available in a public space with the following questions:
-
-* Usernames on the Forum/Discord.
-* Why they want to join.
-* What experience and skills they bring to the WG.
+If you are interested in joining, please use our form: [Apply to join the GSoC working group](https://forms.gle/XGSNLCWpGxvqPW4DA).
 
 ### Membership Conditions
 
-  - New members may self-nominate.
-  - Members will serve for a one year term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
   - New members will get approved by existing members of the WG.
+  - Members will serve for a one-year term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
   - If any member wishes to leave the group before the end of their term, they can do so by notifying the group.
   - Members can propose a vote on removing a member from the working group. This needs 50%+1 agreement.
 
@@ -53,7 +49,13 @@ Any changes to the budget may be requested from the board.
 
 ## Comms
 
-Discussions will take place on the [Django Discord](https://chat.djangoproject.com) in the private #gsoc-organization channel.
+Discussions will take place on the [Django Discord](https://chat.djangoproject.com) in the private #gsoc-organization channel. They will have mailing list at gsoc@djangoproject.com to be included on any outreach activities from a member on behalf of the WG.
+
+The WG can be tagged as follows:
+
+- Discord: @gsoc-wg
+- Forum: @gsoc-wg
+- GitHub: @django/gsoc-wg
 
 ## Reporting
 

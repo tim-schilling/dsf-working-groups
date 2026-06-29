@@ -125,7 +125,7 @@ The team has discussions in the following places:
 1. Formal and sensitive discussions on the mailing list: security@djangoproject.com
 2. Informal and team discussions on the DSF Slack in the private channel `#security-private`
 3. Monthly video-conference meetings
-4. A private Github repository where patches are prepared
+4. A private Github repository to collect and triage all reports and to prepare patches
 
 ## Reporting
 

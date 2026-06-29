@@ -82,8 +82,8 @@ As Django Fellows are contracted to deal with security reports, all Django Fello
 
 ## Membership management
 
-Each year, every non-Fellow member will need to reaffirm their membership with the team
-A non-Fellow member can leave for any reason at any time
+Each year, every non-Fellow member will need to reaffirm their membership with the team.
+A non-Fellow member can leave for any reason at any time. A Fellow whose contract ends is eligible to stay on the team if they would like.
 
 ### Reasons members can be removed from the team
 

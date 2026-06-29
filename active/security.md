@@ -45,6 +45,7 @@ There are specific roles that have a higher level of expectations:
 
 - **Chair / Co-Chair:** Responsible for coordinating the group, scheduling meetings, renewing the group’s membership, and ensuring that the group’s activities align with its scope and responsibilities. The Chair and Co-Chair roles should be re-elected annually by the team. The details of the election procedure are left to the team.
 - **Report Triagers:** Acknowledge and triage initial reports and communicate with reporters.
+- **Other Members:** Assist the Report Triagers when needed, for example when a report matches their area of expertise.
 
 #### Report Triager
 

@@ -95,7 +95,7 @@ If a member is inactive per this document’s definition, they should be removed
 
 If there is a credible security or malicious concern, a team member can report this in a private email to all other members.
 If at least 2 members (including the reporter) share this concern, the team must temporarily suspend access during an investigation, notifying the individual.
-A final decision (e.g., permanent removal) requires a vote from the DSF Board.
+If the team can't arrive at a consensus, the decision can be escalated to the DSF Board.
 
 #### Code of Conduct disqualification
 

@@ -19,6 +19,7 @@ Delegated responsibilities:
 - Board Liaison:
 - Steering Council Liaison: Tim Schilling
 - Other members:
+    - Sarah Boyce
 
 ## Future membership
 
@@ -31,16 +32,16 @@ If you are interested in joining, please use our form: [Apply to join the GSoC w
 
 ### Membership Conditions
 
-  - New members will get approved by existing members of the WG.
-  - Members will serve for a one-year term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
-  - If any member wishes to leave the group before the end of their term, they can do so by notifying the group.
-  - Members can propose a vote on removing a member from the working group. This needs 50%+1 agreement.
+- New members will get approved by existing members of the WG.
+- Members will serve for a one-year term. At the end of this term, they need to opt into staying involved to keep being a member of the group.
+- If any member wishes to leave the group before the end of their term, they can do so by notifying the group.
+- Members can propose a vote on removing a member from the working group. This needs 50%+1 agreement.
 
 ### Roles in within WG
 
- - Chair/Co-chair: The chair and co-chair are responsible for coordinating the community for the GSoC program.
- - Board Liaison: Must be an active Board member; may be the same as Chair/Co-Chair.
- - Steering Council Liaison: Must be an active Steering Council member; may be the same as Chair/Co-Chair.
+- Chair/Co-chair: The chair and co-chair are responsible for coordinating the community for the GSoC program.
+- Board Liaison: Must be an active Board member; may be the same as Chair/Co-Chair.
+- Steering Council Liaison: Must be an active Steering Council member; may be the same as Chair/Co-Chair.
 
 ## Budget
 

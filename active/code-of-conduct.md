@@ -11,12 +11,10 @@ See https://github.com/django/code-of-conduct for full details.
 <!-- Keep the membership in sync between the GitHub team, https://github.com/django/code-of-conduct/blob/main/membership.md, https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md, https://www.djangoproject.com/foundation/committees/ -->
 
 - Dan Ryan, Chair
-- Elena Williams, Vice-Chair
+- Natalia Bidart, Vice-chair & Online Communities WG Liason
 - Ariane Djeupang
 - Jeff Triplett, DSF Board President and board liaison
-- Natalia Bidart, Online Communities WG Liason
 - Priya Pahwa
-- Thibaud Colas
 
 ## Future membership
 

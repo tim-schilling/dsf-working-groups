@@ -16,7 +16,7 @@ Delegated responsibilities:
 
 - Chair: Bhuvnesh Sharma
 - Co-Chair: Apoorv Garg
-- Board Liaison:
+- Board Liaison: Jeff Triplett
 - Steering Council Liaison: Tim Schilling
 - Other members:
     - Sarah Boyce

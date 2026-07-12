@@ -57,6 +57,7 @@ requests.
   - Sage Abdullah
   - Saptak Sengupta
   - Sarah Abderemane
+  - SiHyun Lee
   - Thibaud Colas
 
 ### Alumni

@@ -16,20 +16,14 @@ Delegated responsibilities:
 - Clarifying and elaborating on the various creative strategies that funding sources of different sizes and types can use to support Django
 - Management of the djangoproject.com website content and other marketing collateral relating to fundraising
 
-
 ## Membership
 
-- Chair: Thibaud Colas
-- Co-Chair: Priya Pahwa
+- Chair: Priya Pahwa
+- Co-Chair: 
 - Board Liaison: Ryan Cheley
 - Other members:
-  - Tom Carrick
-  - Sarah Abderemane
-  - Chris Adams
   - Catherine Holmes
   - Abigail Afi Gbadago
-  - Eliana Rosselli
-  - Jacob Kaplan-Moss
   - Jeff Triplett
 
 ## Future membership

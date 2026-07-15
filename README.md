@@ -17,6 +17,7 @@ Foundation to be accessible to as many people as possible.
 - [Events support](active/events-support.md) — supports organizers of Django-related events globally, including DjangoCon conferences.
 - [Fellowship](active/fellowship.md) — manages the operation of the Django Fellowship program.
 - [Fundraising](active/fundraising.md) — coordinates fundraising efforts, particularly around corporate and major donations.
+- [Google Summer of Code](active/google-summer-of-code.md) — coordinates and organizes Django's participation in the Google Summer of Code program.
 - [Online Community](active/online-community.md) — support the official community platforms and those in elevated roles on those platforms.
 - [Social Media](active/social-media.md) — manages Django's official social media profiles.
 - [Website](active/website.md) — maintains and manages the djangoproject.com website.
